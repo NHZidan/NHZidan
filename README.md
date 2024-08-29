@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm Nabil Hossain Zidan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I am a proactive and dedicated undergraduate eager to leverage my skills and knowledge to contribute effectively to a dynamic organization while continually enhancing my professional growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhzidan&label=Profile%20views&color=0e75b6&style=flat" alt="nhzidan" /> </p>
 
